@@ -87,6 +87,12 @@ VAE regularlization 부분 : https://di-bigdata-study.tistory.com/5
 
 VAE 개괄 : https://hyunsooworld.tistory.com/entry/%EC%98%A4%ED%86%A0%EC%9D%B8%EC%BD%94%EB%8D%94Autoencoder%EA%B0%80-%EB%AD%90%EC%97%90%EC%9A%94-5-Variational-AutoEncoderVAE?category=999000
 
+생성 모델의 평가 : https://wikidocs.net/149481
+
+Energy-based models : https://atcold.github.io/pytorch-Deep-Learning/ko/week07/07-1/
+
+변분 추론 : https://ratsgo.github.io/generative%20model/2017/12/19/vi/
+
 다음 주 까지 :
 
 1. 디디피엠 완성!! 
